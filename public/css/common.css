@@ -1,0 +1,27 @@
+
+#upload{
+    margin: 50px 0;
+}
+
+#picker {
+    display: inline-block;
+    line-height: 1.428571429;
+    vertical-align: middle;
+    margin: 0 12px 0 0;
+}
+
+
+.next-step,.last-step{
+    position: relative;
+    left:1000px;
+}
+
+
+div>p.error{
+    font-size: 14px ;
+    color: red;
+}
+
+.margin30{
+    margin-top: 30px;
+}
